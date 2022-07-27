@@ -9,7 +9,7 @@
  
  <h4>Calculadora App: O que é?  </h3>
 
-Olá, estou praticando e desenvolvendo aplicações no Android Studio em linguagem Java. O aplicativo consta com tela com botões, caixa de textos e imageview, simulando calculos de uma calculadora simples, somando, subtraindo, multiplicando, dividindo e mostrando seus respectivos resutlados.  
+Olá, estou praticando e desenvolvendo aplicações no Android Studio em linguagem Java. O aplicativo consta com tela com botões, caixa de textos e imageview, simulando calculos de uma calculadora simples, somando, subtraindo, multiplicando, dividindo e mostrando seus respectivos resultados.  
  
  </div>
  
